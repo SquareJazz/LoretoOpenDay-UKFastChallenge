@@ -1,7 +1,5 @@
 # UKFast Hackathon – HTML Web Design & Web Form Challenge!
 
-<img src='HackerNest-w-tnu-logo-2015.png' height="150" width="auto" />
-
 ## About Us
 
 UKFast is a multi-award winning digital business and the no.1 place to work for in Greater Manchester. It's a business renowned for its innovation and fun culture as well as being one of the UK’s leading security, cloud hosting and colocation firms. UKFast was launched and founded in a back bedroom in 1999 by Lawrence and Gail Jones.
